@@ -16,7 +16,7 @@
 		<div class="menu-content" >  
 				<div class="titulo"> 
 					<div>
-						<video class="video"  src="video/terraminer.mp4" height="125px"  width="450px" autoplay muted loop ></video>
+						<video class="video"  src="terraminer.mp4" height="125px"  width="450px" autoplay muted loop ></video>
 					</div>
 				 </div>
 
@@ -42,7 +42,7 @@
 							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 					</div>
-						<img src="img/baner.jpg" height="100%" width="100%" >
+						<img src="baner.jpg" height="100%" width="100%" >
 				</div>
 
 			
